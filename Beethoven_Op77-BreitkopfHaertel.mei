@@ -154,7 +154,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <tempo xml:id="tempo-0000002041192276" place="above" staff="1" tstamp="1.000000">Allegro.</tempo>
+                                <tempo xml:id="tempo-0000002041192276" place="above"  staff="1" tstamp="1.000000">Allegro.</tempo>
                                 <dir xml:id="dir-0000000621050728" place="above" staff="1" tstamp="4.000000">
                                     <rend xml:id="rend-0000001229061076" halign="left" fontstyle="normal" fontweight="bold">Poco adagio.</rend>
                                 </dir>
